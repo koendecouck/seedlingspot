@@ -1,2 +1,2 @@
 # seedlingspot
-Google Cloud App Engine project holder: seedlingspot.appspot.com
+Google Cloud App Engine project holder (Python app): seedlingspot.appspot.com
